@@ -1,0 +1,12 @@
+{
+    "name": "syfmi/perhitunganpajakkendaraanbermotor",
+    "description": "Perhitungan Pajak Kendaraan Bermotor",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Syfmi\\Perhitunganpajakkendaraanbermotor\\": "src/"
+        }
+    },
+    "require": {}
+}
